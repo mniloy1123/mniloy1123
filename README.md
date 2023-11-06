@@ -2,7 +2,7 @@
 # Hi 👋 I am Nil! 
 I am an aspiring software engineer majoring in Computer Science in Brooklyn College. 
 
-- 👋 Check out my [repositories](https://github.com/mniloy1123?tab=repositories) to see what I'm working on.
+- 👉 Check out my [repositories](https://github.com/mniloy1123?tab=repositories) to see what I'm working on.
 - ✍️ Connect with me on [Linkedin](https://www.linkedin.com/in/mahatir-niloy/) to stay in touch.
 
 ---
